@@ -1,0 +1,1 @@
+This program, coded in Golang, finds the height of an object after 10 seconds. It is based on the prompt which is from the MIT OpenCourseware Intro to Java course.
