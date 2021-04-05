@@ -1,0 +1,1 @@
+This program, coded in Golang, finds the fibonacci sequence up till the inputted number. It also prints the nth number (as inputted by the user) in the sequence.
