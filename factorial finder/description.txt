@@ -1,0 +1,1 @@
+This program, coded in Golang, finds the factorial of an inputted number.
