@@ -1,0 +1,1 @@
+This is a tic tac toe game coded in Golang for fun and practice. You can play either with the user or the bot going first.
