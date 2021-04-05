@@ -1,0 +1,2 @@
+This program, coded in Golang, finds the two roots of a quadratic equation. It works with either fractions or decimals, but not both. If you need to have both decimal numbers and
+fractions, just use the fraction section and add a " 1" after your number.
